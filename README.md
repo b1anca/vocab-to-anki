@@ -1,4 +1,4 @@
-# Anki Translator
+# Vocab To Anki
 
 Fetch translations and definitions and generate an Anki CSV file
 
