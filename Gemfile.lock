@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    vocab-to-anki (0.1.0)
+    vocab-to-anki (0.2.0)
       capybara-sessionkeeper (~> 0.2.0)
       faraday (~> 2.7, >= 2.7.4)
       rubocop-rake (~> 0.6.0)
