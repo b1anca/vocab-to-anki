@@ -1,23 +1,23 @@
 # frozen_string_literal: true
 
-require_relative "lib/anki_translator/version"
+require_relative "lib/vocab_to_anki/version"
 
 Gem::Specification.new do |spec|
-  spec.name = "anki_translator"
+  spec.name = "vocab-to-anki"
   spec.version = AnkiTranslator::VERSION
   spec.authors = ["Bianca Vieira"]
-  spec.email = ["vbieira@outlook.comb"]
+  spec.email = ["bncvr@outlook.com"]
 
   spec.summary = "Anki Translator"
   spec.description = "Fetch translations and definitions and generate an Anki CSV file"
-  spec.homepage = "https://github.com/vbieira/anki_translator"
+  spec.homepage = "https://github.com/b1anca/vocab-to-anki"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
 
   # spec.metadata["allowed_push_host"] = "TODO: Set to your gem server 'https://example.com'"
 
   spec.metadata["homepage_uri"] = spec.homepage
-  spec.metadata["source_code_uri"] = "https://github.com/vbieira/anki_translator"
+  spec.metadata["source_code_uri"] = "https://github.com/b1anca/vocab-to-anki"
   # spec.metadata["changelog_uri"] = "TODO: Put your gem's CHANGELOG.md URL here."
 
   # Specify which files should be added to the gem when it is released.

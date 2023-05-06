@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require "anki_translator"
+require "vocab-to-anki"
 require "pry"
 require "vcr"
 

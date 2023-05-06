@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-# Specify your gem's dependencies in anki_translator.gemspec
+# Specify your gem's dependencies in vocab-to-anki.gemspec
 gemspec
 
 gem "pry"
